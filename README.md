@@ -14,6 +14,7 @@
 /10000/face alignment/train, /10000/face alignment/val, /10000/face alignment/test google-disk      
 Обученные модели сокранены в папку /save google-disk     
 Для третьей части проекта в файлы StackedHourglass.py, FaceAlignment.py, ArcFace.py выгружены классы из предыдущих частей проекта    
+Код третьей части проекта находится в блокноте 3.Pipeline.ipynb    
 В папке models находятся обученные модели для Pipeline.    
 Тестовые изображения в папке images_test       
 В файле Utilities.py находятся функции использованные во всех частях проекта.
