@@ -1,8 +1,8 @@
 # Face-Recognition-Project-
 Итоговый проект DLS (часть 1, осень 2025)       
 Задача распознавания лиц.              
-В первой части задания для датасета отбирались лица с 30 изображениями      
-файлы нахолятся на диске https://drive.google.com/drive/folders/1CvCcx39W55mRlTH0zwWV4n6mUTjvscqS?usp=sharing в папке /10000.    
+В первой части задания, для датасета отбирались лица с 30 изображениями      
+Файлы нахолятся на диске https://drive.google.com/drive/folders/1CvCcx39W55mRlTH0zwWV4n6mUTjvscqS?usp=sharing в папке /10000.    
 Список файлов в файлах 10000.csv, bbox_10000.csv, landmarks_10000.csv.      
 Код для выбора файлов ы ноутбуке list-attr-celebra.ipynb         
 Код выполнения первой части проекта в ноутбуке 1.FaceAlignment.ipynb      
